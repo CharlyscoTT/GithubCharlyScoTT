@@ -19,6 +19,7 @@ automatización para la toma decisiones.
 información.
 
   7.- TEMARIO
+------------------------------------------  
 Unidad Temas Subtemas
 1.
 Introducción a la ingeniería
@@ -34,6 +35,7 @@ software.
 1.4. Los sistemas de información: concepto,
 características, estructuras, procesos,
 clasificación, ERP´s, CRM, SCM.
+----------------------------------------
 2.
 Modelos de la ingeniería
 del software
@@ -45,6 +47,7 @@ modelo de espiral, modelo de Proceso
 Unificado Racional (RUP).
 2.4. Tendencias modernas de modelos de la
 ingeniería del software.
+-----------------------------------------
 3.
 Planificación del proyecto
 de software
@@ -59,6 +62,7 @@ del entorno.
 3.3. Análisis y gestión del riesgo: estrategias,
 identificación, proyección, refinamiento,
 reducción, supervisión y gestión del riesgo.
+-------------------------------------------
 4.
 Análisis del proyecto de
 software
@@ -74,6 +78,7 @@ tamaño, métricas para la calidad del
 software.
 4.5. Implementación y mantenimiento: entrega,
 retroalimentación del cliente.
+--------------------------------------------------
 5. Calidad del software
 5.1. Definición de calidad y calidad del software.
 5.2. Importancia de la calidad.
