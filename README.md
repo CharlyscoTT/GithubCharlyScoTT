@@ -11,13 +11,17 @@ la documentación adecuada de su proyecto de software.
   -----------------
  Construir diagramas de tiempo para determinar ruta(s) crítica(s) en la administración
 de un proyecto.
+
  Aplicar técnicas de modelado para la solución de problemas.
+
  Aplicar la sintaxis de un lenguaje orientado a objetos.
+
  Aplicar un lenguaje orientado a objetos para la solución de problemas.
- Identificar los tipos de organización así como sus estructuras y funciones
-correspondientes.
- Identificar y analizar necesidades de información para su representación, tratamiento y
-automatización para la toma decisiones.
+
+ Identificar los tipos de organización así como sus estructuras y funciones correspondientes.
+
+ Identificar y analizar necesidades de información para su representación, tratamiento y automatización para la toma decisiones.
+
  Diseñar esquemas de bases de datos para generar soluciones al tratamiento de
 información.
 
@@ -61,6 +65,7 @@ del entorno.
 3.3. Análisis y gestión del riesgo: estrategias,
 identificación, proyección, refinamiento,
 reducción, supervisión y gestión del riesgo.
+
 4.Análisis del proyecto de software
 --
 4.1. Modelado: análisis, diseño, documentación.
